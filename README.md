@@ -1,4 +1,4 @@
-Olá, meu nome é Raul Henrique!
+Olá, o meu nome é Raul Henrique!
 
 
 - 🌱 Estou estudando atualmente: CSS, HTML e JavaScript
