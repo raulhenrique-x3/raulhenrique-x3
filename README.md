@@ -1,11 +1,9 @@
 Olá, meu nome é Raul Henrique!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on desenvolvimento front-end
-- 🌱 I’m currently learning CSS, HTML e JavaScript
-- 📫 How to reach me: raulheri43@hotmail.com
-- ⚡ Fun fact: Eu sei produzir música eletrônica
+- 🌱 Estou estudando atualmente: CSS, HTML e JavaScript
+- 📫 Como me contactar: raulheri43@hotmail.com
+- ⚡ Curiosidade: Eu sei produzir música eletrônica
 
 <div style="display: inline_block">
   <br>
