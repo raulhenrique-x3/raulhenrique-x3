@@ -2,7 +2,6 @@ Olá, o meu nome é Raul Henrique!
 
 
 - 🌱 Estou estudando atualmente: CSS, HTML e JavaScript
-- 📫 Como me contactar: raulheri43@hotmail.com
 - ⚡ Curiosidade: Eu sei produzir música eletrônica
 
 <div style="display: inline_block">
