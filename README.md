@@ -25,6 +25,5 @@ Olá, o meu nome é Raul Henrique!
 
       <a href="mailto:raulheri43@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 
-      <a href="https://support.discord.com/hc/en-us/profiles/1523563434242"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>;
-  </div>
+      <a href="https://support.discord.com/hc/en-us/profiles/1523563434242"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   
