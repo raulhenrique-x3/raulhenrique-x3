@@ -1,7 +1,7 @@
 Olá, o meu nome é Raul Henrique!
 
 
-- 🌱 Estou estudando atualmente: CSS, HTML e JavaScript
+- 🌱 Sou um desenvolvedor front-end junior criativo e apaixonado por tecnologia.
 - ⚡ Curiosidade: Eu sei produzir música eletrônica
 
   
