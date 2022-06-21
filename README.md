@@ -14,7 +14,7 @@ Olá, o meu nome é Raul Henrique!
   <img align="center" alt="iconCss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="iconReactJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg">
     
-  <img align="center" alt="iconReactJs" height="30" width="40" scr="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg
+  <img align="center" alt="iconSass" height="30" width="40" scr="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg
 ">
 </div>
 <br>
