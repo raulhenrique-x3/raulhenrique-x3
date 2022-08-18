@@ -1,7 +1,7 @@
 Olá, o meu nome é Raul Henrique!
 
 
-- 🌱 Sou um desenvolvedor front-end junior criativo e apaixonado por tecnologia.
+- 🌱 Sou um desenvolvedor front-end, criativo e apaixonado por tecnologia.
 - ⚡ Curiosidade: Eu sei produzir música eletrônica
 -  Visite meu portifólio em:
     https://raul-henrique-dev.vercel.app/
