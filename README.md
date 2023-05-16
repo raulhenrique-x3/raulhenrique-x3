@@ -1,7 +1,7 @@
 Olá, o meu nome é Raul Henrique!
 
 
-- 🌱 Sou um desenvolvedor front-end, criativo e apaixonado por tecnologia.
+- 🌱 Sou um desenvolvedor fullstack, criativo e apaixonado por tecnologia.
 - ⚡ Curiosidade: Eu sei produzir música eletrônica
 -  Visite meu portifólio em:
     https://raul-henrique-dev.vercel.app/
@@ -12,7 +12,7 @@ Olá, o meu nome é Raul Henrique!
   <img align="center" alt="iconReactJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
   <img align="center" alt="iconTs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="iconSass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-   <img align="center" alt="iconJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="iconJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="iconAndroid" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="center" alt="iconFirebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
   <img align="center" alt="iconMongoDb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
