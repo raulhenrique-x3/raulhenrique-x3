@@ -1,7 +1,7 @@
 Olá, o meu nome é Raul Henrique!
 
 
-- 🌱 Sou um desenvolvedor fullstack, criativo e apaixonado por tecnologia.
+- 🌱 Full-Stack Software Developer
 - ⚡ Curiosidade: Eu sei produzir música eletrônica
 -  Visite meu portifólio em:
     https://raul-henrique-dev.vercel.app/
