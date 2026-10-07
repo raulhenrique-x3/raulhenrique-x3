@@ -1,4 +1,4 @@
-# Raul Henrique | Senior Full-Stack Engineer
+# Raul Henrique | Full-Stack Engineer
 
 **Enterprise-Grade Software Architect** | Cloud Infrastructure | System Design | High-Performance Applications
 
