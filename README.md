@@ -55,15 +55,6 @@ Full Stack Software Engineer with 4+ years of end-to-end production experience a
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raulhenrique-x3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Raul's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulhenrique-x3&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-henrique)
