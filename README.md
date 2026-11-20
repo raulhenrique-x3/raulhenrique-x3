@@ -31,27 +31,27 @@ Full Stack Software Engineer with 4+ years of end-to-end production experience a
 
 ---
 
-### 🚀 Public Projects
+### 🚀 Featured Projects
 
-- **[CadêMetrô](https://github.com/raulhenrique-x3/cademetro)**  
-  Community transit-monitoring platform tracking trains, line operations, and station conditions in real time.  
-  *Stack:* TypeScript, React / React Native, REST API.
+- **[Matchly TCG](https://www.matchlytcg.com/)**  
+  Online platform for the trading card game community: store-run tournaments and events, registrations, rankings and results, store credits, card catalogs, deck building and player-to-player trading — covering Pokémon, Yu-Gi-Oh!, Magic: The Gathering, One Piece, Digimon, Gundam and Riftbound.  
+  *Stack:* Next.js, NestJS, Prisma, PostgreSQL, Socket.io, Stripe.
 
-- **[Artefact Technical Project](https://github.com/raulhenrique-x3/artefact-technical-project)**  
-  High-performance task manager with infinite scroll and optimistic UI updates.  
-  *Stack:* Next.js, tRPC, TypeScript, Tailwind CSS.
+- **[Radar do Congresso](https://radardocongresso.online/)**  
+  Free public platform that tracks in real time what federal deputies and senators are proposing, automatically translating legal language ("Alters art. 12 of Law no. X...") into plain language with possible real-world impacts.  
+  *Stack:* Next.js, Flask, SQLite, LLM integration, Docker.
 
-- **[Job Scout Bot](https://github.com/raulhenrique-x3/bot-job)**  
-  Automated recruitment pipeline scraper with AI job-fit scoring and instant Telegram alerts.  
-  *Stack:* Python, BeautifulSoup, Automated Workflows.
+- **[Job Application Bot](https://github.com/raulhenrique-x3/bot-job)**  
+  End-to-end automated job pipeline: scrapes 10 national and international job boards, AI-powered fit analysis, ATS-tailored resume and cover letter generation, automated applications with human-intervention safeguards and Telegram alerts.  
+  *Stack:* Python, Playwright, Gemini, SQLite, Docker & systemd.
 
-- **[Load Balancer Demo](https://github.com/raulhenrique-x3/load-balancer)**  
-  Round-robin reverse proxy implementation orchestrating Node.js/Express instances.  
-  *Stack:* NGINX, Node.js, Express, Docker Compose.
+- **[OpenCode Voice TUI](https://github.com/raulhenrique-x3/opencode-voice-tui)**  
+  Voice input plugin for the OpenCode TUI: speak your prompt, whisper.cpp transcribes it locally on your GPU, an optional LLM cleans up the text, and you review it before sending to the session.  
+  *Stack:* TypeScript, whisper.cpp, Ollama.
 
-- **[Pneumonia Detection CNN](https://github.com/raulhenrique-x3/pneumonia_detection_tensorflow)**  
-  Deep learning classification model comparing custom CNN vs transfer learning (VGG16 / ResNet50) on chest X-rays.  
-  *Stack:* Python, TensorFlow, Keras.
+- **[Users Anomaly Detection](https://github.com/raulhenrique-x3/users_anomaly_detection)**  
+  Insider-threat detection that learns each user's digital routine (logins, emails, sites, USB usage) and ranks the most anomalous days for the security team — validated on the CERT/SEI r4.2 dataset.  
+  *Stack:* Python, Polars, scikit-learn.
 
 ---
 
