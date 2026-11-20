@@ -14,7 +14,7 @@ Full Stack Software Engineer with 4+ years of end-to-end production experience a
 
 - 💼 **Experience:**
   - **BSATech** (2023–2024): Full Stack Engineer — Next.js/React SPAs/SSRs, NestJS microservices, Python automation, MongoDB, SQL Server, Docker.
-  - **Compurshop** (2024–2025): Full Stack & Automation — TypeScript, C# (.NET), PHP, PostgreSQL, SQL Server, performance and query optimization.
+  - **Compurshop** (2024–2025): Full Stack & Automation — TypeScript, C# (.NET), Python, PostgreSQL, SQL Server, performance and query optimization.
   - **Gerens** (2022–2023): Front-End & Mobile — Cross-platform application development in React Native & real-time REST integration.
 - 🎓 **Education:** Systems Analysis and Development — **IFPE** (2022–2027).
 - 🎯 **Strengths:** Clean Architecture, API orchestration, microservices, containerization, and database performance profiling.
